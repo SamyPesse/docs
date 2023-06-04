@@ -1,10 +1,14 @@
 # Rocket.Chat Documentation
 
+{% hint style="info" %}
+Hint added in GitBook, synced with Hive
+{% endhint %}
+
 [Rocket.Chat](https://rocket.chat) is an open-source fully customizable communications platform developed in JavaScript for organizations with high standards of data protection.
 
 We are a MERN-based application enabling real-time conversations between colleagues, with other companies, or with your customers, regardless of how they connect with you. The result is an increase in productivity and customer satisfaction rates.
 
-[Rocket.Chat](https://rocket.chat) integrates with multiple conversation channels like website live-chat, email, Facebook page, Twitter, WhatsApp, Instagram, etc. It shows discussion from various channels, thereby constructing a single view of the customer and helps in diminishing the time needed to switch between the tools. Mobile app for Rocket.Chat (available for Android and iOS) enables you to browse conversations, reply to messages and collaborate with the team.  Using our self-managed offerings you can deploy Rocket.Chat on your own server, or you can use SaaS Rocket.Chat. We offer support for both community as well as commercial plans.
+[Rocket.Chat](https://rocket.chat) integrates with multiple conversation channels like website live-chat, email, Facebook page, Twitter, WhatsApp, Instagram, etc. It shows discussion from various channels, thereby constructing a single view of the customer and helps in diminishing the time needed to switch between the tools. Mobile app for Rocket.Chat (available for Android and iOS) enables you to browse conversations, reply to messages and collaborate with the team. Using our self-managed offerings you can deploy Rocket.Chat on your own server, or you can use SaaS Rocket.Chat. We offer support for both community as well as commercial plans.
 
 This user guide incorporates a description of the features and capabilities, modes of operation, and step-by-step procedures for the Rocket.Chat platform access and use.
 
