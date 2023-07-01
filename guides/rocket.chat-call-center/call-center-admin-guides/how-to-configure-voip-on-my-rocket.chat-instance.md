@@ -8,18 +8,18 @@ Please make sure your environment meets the prerequisites to be able to configur
 
 To configure VoIP on your Rocket.Chat instance:
 
-1. Go to **Avatar Menu > Administration > Settings**&#x20;
+1. Go to **Avatar Menu > Administration > Settings**
 2. Search **Call Center**
 
 as shown below:
 
-![Rocket.Chat Call Center](<../../../.gitbook/assets/image (687).png>)
+![Rocket.Chat Call Center](<../../../.gitbook/assets/image (688) (1).png>)
 
 ## 1. Enabling VoIP
 
 VoIP does not come enabled by default. You can enable it on your Rocket.Chat instance by:
 
-1. Go to **Avatar Menu > Administration > Settings**&#x20;
+1. Go to **Avatar Menu > Administration > Settings**
 2. Search **Call Center**
 
 as shown below:
@@ -28,7 +28,7 @@ as shown below:
 
 ## 2. Configuration of the management server (Asterisk)
 
-**Rocket.Chat** is using **** [**Asterisk**](https://www.asterisk.org) as its call management server. To get your own Asterisk server please [contact](https://www.asterisk.org/products/) Asterisk.
+**Rocket.Chat** is using \*\*\*\* [**Asterisk**](https://www.asterisk.org) as its call management server. To get your own Asterisk server please [contact](https://www.asterisk.org/products/) Asterisk.
 
 Rocket.Chat needs the following credentials to connect to Asterisk and start receiving the call management matrix such as queues, extensions, and other management data.
 
@@ -40,12 +40,12 @@ Rocket.Chat is using it for call bookkeeping data like how many queues are there
 
 To configure this integration between Rocket.Chat and Asterisk:
 
-* Go to **Avatar Menu > Administration > Settings**&#x20;
+* Go to **Avatar Menu > Administration > Settings**
 * Search **Call Center**
 * Under the **Settings** tab navigate to **Management Server** and click it open.
-* All the settings needed here should be provided to you by your _Asterisk manager._&#x20;
+* All the settings needed here should be provided to you by your _Asterisk manager._
 
-![Management server configuration ](<../../../.gitbook/assets/image (668) (1) (1).png>)
+![Management server configuration](<../../../.gitbook/assets/image (668) (1) (1).png>)
 
 ## 3. Configuration of call server
 
@@ -53,10 +53,10 @@ Rocket.Chat needs a WebSocket connection for the forwarding of calls from Asteri
 
 To configure this WebSocket connection between Rocket.Chat and Asterisk:
 
-* Go to **Avatar Menu > Administration > Settings**&#x20;
+* Go to **Avatar Menu > Administration > Settings**
 * Search **Call Center**
 * Under the **Settings** tab navigate to **Server Configuration** and click it open.
-* All the settings needed here should be provided to you by your _Asterisk manager._&#x20;
+* All the settings needed here should be provided to you by your _Asterisk manager._
 
 ![Call server configuration](<../../../.gitbook/assets/image (647) (1) (1).png>)
 

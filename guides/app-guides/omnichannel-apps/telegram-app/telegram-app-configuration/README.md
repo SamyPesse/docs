@@ -2,13 +2,13 @@
 
 Search Telegram in the **Apps** menu on your Rocket.Chat administration panel, as shown below:
 
-![](<../../../../../.gitbook/assets/image (532).png>)
+![](<../../../../../.gitbook/assets/image (505) (1).png>)
 
 Click open your Telegram app to see the settings available to you as an administrator.
 
 The following are the settings available:
 
-![](<../../../../../.gitbook/assets/2022-02-01\_16-04-42 (1).png>)
+![](../../../../../.gitbook/assets/2022-02-01\_16-04-42.png)
 
 1. **Bot Token** sent by Telegram during Bot user activation. If you need help creating your telegram bot token, you can find the [instructions](https://docs.rocket.chat/guides/app-guides/omnichannel-apps/telegram-app/telegram-app-configuration/generate-your-telegram-bot-token) here.
 2. You can set a **Default Department**. Only the agents of this department are able to serve Telegram conversations
@@ -46,9 +46,9 @@ You can also use quick reply buttons to send/receive quick replies on telegram.
 ![](<../../../../../.gitbook/assets/telegram quick replies .png>)
 
 {% hint style="info" %}
-**If you don't yet have a chatbot solution ready to connect to Omnichannel or are interested in discovering** [**Rocket.Chat**](http://rocket.chat) **natively compatible solutions such as** [**Dialogflow**](https://docs.rocket.chat/guides/app-guides/omnichannel-apps/dialogflow-app) **or** [**RASA**](https://docs.rocket.chat/guides/app-guides/omnichannel-apps/rasa-app)**.  Check out our** [**marketplace**](https://rocket.chat/marketplace) **and learn more!**
+**If you don't yet have a chatbot solution ready to connect to Omnichannel or are interested in discovering** [**Rocket.Chat**](http://rocket.chat) **natively compatible solutions such as** [**Dialogflow**](https://docs.rocket.chat/guides/app-guides/omnichannel-apps/dialogflow-app) **or** [**RASA**](https://docs.rocket.chat/guides/app-guides/omnichannel-apps/rasa-app)**. Check out our** [**marketplace**](https://rocket.chat/marketplace) **and learn more!**
 {% endhint %}
 
-You also need to have [**Assign new conversations to bot agent**](https://docs.rocket.chat/guides/administration/settings/omnichannel-admins-guide#routing) **** toggled on for the setting to work&#x20;
+You also need to have [**Assign new conversations to bot agent**](https://docs.rocket.chat/guides/administration/settings/omnichannel-admins-guide#routing) \*\*\*\* toggled on for the setting to work
 
 ![](<../../../../../.gitbook/assets/bot agent .png>)

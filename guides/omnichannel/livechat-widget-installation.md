@@ -10,7 +10,7 @@ To access **Livechat Installation** settings:
 
 Go to **Livechat Installation** in the omnichannel panel settings, as shown below:
 
-![](<../../.gitbook/assets/0 (4).png>)
+![](<../../.gitbook/assets/0 (10).png>)
 
 ## To install the livechat widget:
 

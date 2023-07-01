@@ -1,7 +1,7 @@
 # Rocket.Chat Documentation
 
 {% hint style="info" %}
-Hint added in GitBook, synced with Hive, edited in GitHub
+Hint added in GitBook, synced with Hive, edited in GitHub, edited again in GitBook
 {% endhint %}
 
 [Rocket.Chat](https://rocket.chat) is an open-source fully customizable communications platform developed in JavaScript for organizations with high standards of data protection.
